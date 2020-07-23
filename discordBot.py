@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'NzM1MzA4NDQ5NjYyODk0MTYw.XxeXsw.it4mV6jAkvAl3gFsT2_T1zLH5Fs'
+TOKEN = ''
 client = commands.Bot(command_prefix='.')
 
 #  EVENTS
